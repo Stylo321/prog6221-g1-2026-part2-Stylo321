@@ -25,6 +25,7 @@
               Stretch="UniformToFill"
               MediaEnded="SplashVideo_MediaEnded"/>
 
+
         <!-- DARK OVERLAY -->
         <Rectangle Fill="Black"
                    Opacity="0.30"/>

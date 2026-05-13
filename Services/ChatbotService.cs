@@ -112,6 +112,8 @@ namespace CyberSecurityBotGUI.Services
                 }
             }
 
+
+
             
             if (input.Contains("tell me more") ||
                 input.Contains("another tip") ||

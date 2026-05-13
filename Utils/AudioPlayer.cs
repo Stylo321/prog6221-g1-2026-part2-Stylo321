@@ -22,7 +22,6 @@ namespace CyberSecurityBotGUI.Utils
             catch
             {
 
-
             }
         }
     }
